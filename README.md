@@ -4,10 +4,10 @@
 
 ## About me
 
-<p>★ My name is Itachi_Uchiha15;</p>
-<p>★ I am focused on C++ development;</p>
-<p>★ I enjoy building efficient and fast systems;</p>
-<p>★ I live on Brazil;</p>
+<p>★ My name is Pedro Henrique</p>
+<p>★ I am focused on C++ development</p>
+<p>★ I enjoy building efficient and fast systems</p>
+<p>★ I live on Brazil</p>
 
 ## Skills 👨‍💻
 
